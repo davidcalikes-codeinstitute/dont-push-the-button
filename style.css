@@ -1,0 +1,18 @@
+.dont-push-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.dont-push-button:hover {
+    background-color: darkred;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
