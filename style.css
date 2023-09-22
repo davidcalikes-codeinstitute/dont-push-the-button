@@ -1,19 +1,34 @@
+body {
+    background-color: black;
+    background-image: url("../images/background_swirl.webp");
+}
+
+h1 {
+    color: yellow;
+}
+
 .button-container {
     text-align: center;
 }
 
 .dont-push-button {
+    margin-top: 4rem;
     background-color: red;
     color: white;
     padding: 10px 20px;
-    font-size: 18px;
+    font-size: 40px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    font-family: fantasy;
+    text-transform: capitalize;
 }
 
 .dont-push-button:hover {
-    background-color: darkred;
+    background-color: rgb(244, 50, 50);
+    border: 3px solid yellow;
 }
 
 hr {
