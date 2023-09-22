@@ -3,11 +3,11 @@ body {
     background-image: url("../images/background_swirl.webp");
 }
 
-h1 {
-    color: yellow;
+.logo-container {
+
 }
 
-.button-container {
+.centered-container {
     text-align: center;
 }
 
