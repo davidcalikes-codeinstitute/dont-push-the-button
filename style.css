@@ -9,8 +9,8 @@ body {
 
 .dont-push-button {
     margin-top: 4rem;
-    background-color: red;
     color: white;
+    background: red;
     padding: 10px 20px;
     font-size: 40px;
     border: none;
