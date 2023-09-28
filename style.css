@@ -24,7 +24,7 @@ body {
 
 .dont-push-button:hover {
     background-color: rgb(244, 50, 50);
-    border: 3px solid yellow;
+    border: 3px solid rgb(255, 98, 0);
 }
 
 hr {
